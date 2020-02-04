@@ -1,0 +1,6 @@
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Jack Jones\Documents\Documents\Programming\Projects\C#\Factorial\Factorial\Factorial\obj\Debug\Factorial.pdb
