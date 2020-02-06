@@ -10,7 +10,7 @@ namespace Factorial
 {
     class Program
     {
-        static int  Fibonacci(int val) //function called Fibonacci ==> Recursive
+        static int  Factorial(int val) //function called Factorial ==> Recursive
         {
             if (val == 1) //if value is one
             {
@@ -18,19 +18,19 @@ namespace Factorial
             }
             else
             {
-                return val*Fibonacci(val - 1); //otherwise return val multiplied by the Fibonacci value of val-1
+                return val*Factorial(val - 1); //otherwise return val multiplied by the Fibonacci value of val-1
             }
         }
         static void Main(string[] args)
         {
-            int n, Fibval; 
+            int n, Facval; 
             String pass;
             Console.WriteLine("Enter a number to find the factorial of");
             try
             {
                 n = Convert.ToInt32(Console.ReadLine());
-                Fibval = Fibonacci(n);
-                Console.WriteLine(Fibval);
+                Facval = Factorial(n);
+                Console.WriteLine(Facval);
                 Console.ReadLine();
                 Console.WriteLine("Press Enter to Exit");
                 pass = Console.ReadLine();
